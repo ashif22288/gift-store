@@ -64,6 +64,4 @@ This project was developed by:
 
 * **Md Ashif**
 
-* **Sarthak Singh** (2022457)
-
 *All members contributed equally to the design, implementation, and testing of this system.*
